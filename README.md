@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+### Olar! 👋
 
 <!--
 **dhominicx/dhominicx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Atualmente estou estudando Redes de Computadores no Instituto Federal do Amapá
+- 🌱 Estou aprendendo Python e C++
+- 📫 Contato: dhominibp4@gmail.com

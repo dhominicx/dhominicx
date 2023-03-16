@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 Graduando em Engenharia da Computação pela Universidade Federal do Pará
 - 🔭 Técnico em Redes de Computadores pelo Instituto Federal do Amapá
 - 🌱 Estou aprendendo Python e C++
 - 📫 Contato: dhominibp4@gmail.com
